@@ -1,4 +1,4 @@
 
 
-def print_guid():
+def print_something():
 	print("DATASCIENCEROCKS")
