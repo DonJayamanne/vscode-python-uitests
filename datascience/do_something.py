@@ -1,5 +1,5 @@
 
 
-def print_guid():
+def print_something():
 	print("DATASCIENCEROCKS")
 	open("log.log", "w").write("Hello")
